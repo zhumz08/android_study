@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">系统登录</string>
+
+    <string name="login.username">用户名</string>
+    <string name="login.password">密码</string>
+    <string name="login.loginbtn">登陆</string>
+    <string name="login.setting">设置服务器</string>
+</resources>
